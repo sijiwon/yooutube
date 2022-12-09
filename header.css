@@ -240,6 +240,11 @@ input:focus {
 .header_right li:nth-child(3) {
   margin-top: 10px;
 }
+
+.header_right li:nth-child(3):hover {
+  margin-top: 10px;
+  background-color: #f8f8f800;
+}
 .header_right_profil {
   border-radius: 50%;
   background-color: #018977;
